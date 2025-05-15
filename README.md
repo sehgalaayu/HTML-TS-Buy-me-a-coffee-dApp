@@ -52,7 +52,7 @@ A decentralized application (dApp) built with **JavaScript**, **Viem**, and **Et
    ```bash
    git clone https://github.com/sehgalaayu/buy-me-a-coffee-dapp.git
    cd buy-me-a-coffee-dapp
-````
+
 
 2. **Start a local server**
 
