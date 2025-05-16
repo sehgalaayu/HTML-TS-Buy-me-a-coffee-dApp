@@ -9,7 +9,7 @@ A decentralized application (dApp) built with **JavaScript**, **Viem**, and **Et
 - 🔐 Connect with MetaMask
 - 💸 Fund the contract with ETH
 - 📊 View contract balance
-- 🏦 Withdraw funds (owner-only)
+- 🏦 Withdraw funds (owner-only
 - 🛠 Uses **Viem** for smart contract interactions
 
 ---
