@@ -1,6 +1,6 @@
 # ☕ Buy Me a Coffee dApp
 
-A decentralized application (dApp) built with **JavaScript**, **Viem**, and **Ethereum**, allowing users to fund your wallet with ETH as a friendly way to "buy you a coffee.
+A decentralized application (dApp) built with **JavaScript**, **Viem**, and **Ethereum**, allowing users to fund your wallet with ETH as a friendly way to "buy you a coffee."
 
 ---
 
